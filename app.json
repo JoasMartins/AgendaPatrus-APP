@@ -1,0 +1,7 @@
+{
+  "name": "AgendaPatrus",
+  "displayName": "AgendaPatrus",
+  "android": {
+    "package": "com.escolapatrus.agendapatrus"
+  }
+}
