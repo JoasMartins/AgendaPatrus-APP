@@ -1,3 +1,4 @@
+![Logo Agenda Patrus](https://imgur.com/gl2ZUgz.png)
 # Agenda Patrus - Applicco
 O Agenda Patrus é um projeto desenvolvido para a Escola Estadual Sebastião Patrus de Souza, planejada para auxiliar os professores e alunos com funções como um sistema para gerenciamneto das atividades estudantis.
 
